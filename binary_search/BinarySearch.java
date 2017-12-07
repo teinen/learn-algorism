@@ -1,7 +1,7 @@
 import java.util.*;
 
 /**
- * LinearSearch
+ * BinarySearch
  */
 public class BinarySearch {
 
