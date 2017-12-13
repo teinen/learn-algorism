@@ -1,2 +1,5 @@
 # vscode related files
 .vscode
+
+# Java class files
+*.class
