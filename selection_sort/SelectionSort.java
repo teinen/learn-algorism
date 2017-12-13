@@ -18,6 +18,8 @@ public class SelectionSort {
 
     long start = System.nanoTime();
 
+    System.out.println("=== Exec Selection Sort in Java ===");
+
     while(i < len - 1) {
       idxMin = i;
       k = i + 1;

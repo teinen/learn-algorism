@@ -12,6 +12,8 @@ class SelectionSort
 
   start_time = Time.now
 
+  puts "=== Exec Selection Sort in Ruby ==="
+
   while i < len - 1 do
     idxMin = i
     k = i + 1
