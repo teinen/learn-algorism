@@ -1,19 +1,19 @@
-# learn-algorism
+# learn-algorithm
 
 ## Overview
-This is repository for learning algorism.  
-I implement some algorisms by using Java/Ruby.
+This is repository for learning algorithm.  
+I implement some algorithm by using Java/Ruby.
 
-## Algorism
-### Search algorism
+## Algorithm
+### Search algorithm
 * Linear search
 * Binary search
 * Hash search
 
-### Sort algorism
+### Sort algorithm
 * Select sort
 * Bubble sort
 * Insert sort
 * Quick sort
 
-I may add some algorism codes if I learn more.
+I may add some algorithm codes if I learn more.
